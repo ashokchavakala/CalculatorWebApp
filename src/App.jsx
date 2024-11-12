@@ -5,7 +5,7 @@ import './App.css'
 import Calculator from './CalculatorFiles/Calculator'
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>
